@@ -11,6 +11,8 @@ Coccolith:
 
 🖨 Carbon fiber polycarbonate: https://amzn.to/3kKSolU
 
+🖨 Green TPU: https://amzn.to/3BAMUAu
+
 💨 25mm 5V fans: https://amzn.to/3eJEw7W
 
 🚰 Heatsink: https://amzn.to/3Bpw6Mu
